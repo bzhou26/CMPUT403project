@@ -1,6 +1,10 @@
 #CMPUT 403 Project: Comparison of String Matching Algorithm
 -
 ## Introduction:
+**Online readme file:** 
+
+**https://github.com/bzhou26/CMPUT403project**
+
 This is an implementation of comparison of Boyer-Moore algorithm, Knuth–Morris–Pratt algorithm, and Brute Force (Naïve) algorithm, which are the three popular string matching algorithms.
 
 String Matching:
